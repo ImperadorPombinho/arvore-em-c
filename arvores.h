@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-
+//pedro henrique barros de oliveira sousa
 typedef int tp_item;
 
 typedef struct tp_no{

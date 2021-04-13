@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 # include "arvores.h"
+//pedro henrique barros de oliveira sousa
 int main(){
 	tp_arvore* raiz = inicializaArvore();
 	
